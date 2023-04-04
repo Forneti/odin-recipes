@@ -1,0 +1,19 @@
+div {
+    color: brown;
+    background-color: aliceblue;
+    border-color: black;
+}
+.class.second-class {
+    font-size: 32px;
+    align-items: center;
+
+}
+p {
+    text-size-adjust: 18px;
+    color: blue;
+    background-color: brown;
+}
+button {
+    background-color: blue;
+    color: beige;
+}
