@@ -1,19 +1,9 @@
-div {
-    color: brown;
-    background-color: aliceblue;
-    border-color: black;
-}
-.class.second-class {
-    font-size: 32px;
-    align-items: center;
 
+
+#header {
+  color: blue
 }
-p {
-    text-size-adjust: 18px;
-    color: blue;
-    background-color: brown;
+.list{
+    background-color: pink;
 }
-button {
-    background-color: blue;
-    color: beige;
-}
+
